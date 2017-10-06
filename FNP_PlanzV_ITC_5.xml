@@ -1,0 +1,1993 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="1">
+  <symbols>
+    <symbol alpha="1" clip_to_extent="1" type="line" name="FNP_01LI_Altbergbau">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="50"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_01LI_Altbergbau@0">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="180"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="cross2"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="2"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="16"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="2"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="SimpleLine" locked="0">
+        <prop k="capstyle" v="square"/>
+        <prop k="customdash" v="5;2"/>
+        <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="customdash_unit" v="MapUnit"/>
+        <prop k="draw_inside_polygon" v="0"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="line_color" v="0,0,0,255"/>
+        <prop k="line_style" v="solid"/>
+        <prop k="line_width" v="2"/>
+        <prop k="line_width_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="use_custom_dash" v="0"/>
+        <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="fill" name="FNP_01PE_Altbergbau">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="50"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_01PE_Altbergbau@0">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="180"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="cross2"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="2.2"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="16"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="2"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="1" class="SimpleFill" locked="0">
+        <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="color" v="0,0,255,0"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="outline_color" v="0,0,0,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="2"/>
+        <prop k="outline_width_unit" v="MapUnit"/>
+        <prop k="style" v="solid"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="fill" name="FNP_01PF_AB-Autobahnen">
+      <layer pass="1" class="SimpleFill" locked="0">
+        <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="color" v="229,216,189,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="0,0,0,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="line" name="FNP_02LI_BergbaurechtlichesErlaubnisfeld">
+      <layer pass="0" class="SimpleLine" locked="0">
+        <prop k="capstyle" v="square"/>
+        <prop k="customdash" v="5;2"/>
+        <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="customdash_unit" v="MapUnit"/>
+        <prop k="draw_inside_polygon" v="0"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="line_color" v="0,0,0,255"/>
+        <prop k="line_style" v="solid"/>
+        <prop k="line_width" v="2"/>
+        <prop k="line_width_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="use_custom_dash" v="0"/>
+        <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="fill" name="FNP_02PE_BergbaurechtlichesErlaubnisfeld">
+      <layer pass="1" class="SimpleFill" locked="0">
+        <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="color" v="0,0,255,0"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="outline_color" v="0,0,0,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="2"/>
+        <prop k="outline_width_unit" v="MapUnit"/>
+        <prop k="style" v="solid"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="fill" name="FNP_02PF_BA-Bahnanlage">
+      <layer pass="1" class="SimpleFill" locked="0">
+        <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="color" v="255,0,255,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="0,0,0,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="line" name="FNP_03LI_Hochspannungsfreileitung">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="100"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="5"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_03LI_Hochspannungsfreileitung@0">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="circle"/>
+            <prop k="offset" v="5,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="2"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="15"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="SimpleLine" locked="0">
+        <prop k="capstyle" v="square"/>
+        <prop k="customdash" v="5;2"/>
+        <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="customdash_unit" v="MapUnit"/>
+        <prop k="draw_inside_polygon" v="0"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="line_color" v="0,0,0,255"/>
+        <prop k="line_style" v="solid"/>
+        <prop k="line_width" v="2"/>
+        <prop k="line_width_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="use_custom_dash" v="0"/>
+        <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="fill" name="FNP_03PE_Hochspannungsfreileitung">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="100"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_03PE_Hochspannungsfreileitung@0">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="circle"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="0,0,0,0"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="0"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="15"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="1" class="SimpleFill" locked="0">
+        <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="color" v="0,0,255,0"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="outline_color" v="0,0,0,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="2"/>
+        <prop k="outline_width_unit" v="MapUnit"/>
+        <prop k="style" v="solid"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="fill" name="FNP_03PF_BR-FlächeNichtDurchRPgenegmigt">
+      <layer pass="1" class="SimpleFill" locked="0">
+        <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="color" v="0,255,255,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="0,0,0,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="line" name="FNP_04LI_Richtfunktrassen">
+      <layer pass="0" class="SimpleLine" locked="0">
+        <prop k="capstyle" v="square"/>
+        <prop k="customdash" v="5;2"/>
+        <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="customdash_unit" v="MapUnit"/>
+        <prop k="draw_inside_polygon" v="0"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="line_color" v="0,0,0,255"/>
+        <prop k="line_style" v="solid"/>
+        <prop k="line_width" v="4"/>
+        <prop k="line_width_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="use_custom_dash" v="0"/>
+        <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="fill" name="FNP_04PE_Richtfunktrassen">
+      <layer pass="1" class="SimpleFill" locked="0">
+        <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="color" v="0,0,255,0"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="outline_color" v="0,0,0,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="4"/>
+        <prop k="outline_width_unit" v="MapUnit"/>
+        <prop k="style" v="solid"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="fill" name="FNP_04PF_FL-Landwirtschaft">
+      <layer pass="1" class="SimpleFill" locked="0">
+        <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="color" v="200,255,0,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="0,0,0,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="line" name="FNP_05LI_Lärmschutzmaßnahmen">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="50"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_05LI_Lärmschutzmaßnahmen@0">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="180"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="triangle"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="255,255,255,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="0"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="20"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="2"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="SimpleLine" locked="0">
+        <prop k="capstyle" v="square"/>
+        <prop k="customdash" v="5;2"/>
+        <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="customdash_unit" v="MapUnit"/>
+        <prop k="draw_inside_polygon" v="0"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="line_color" v="0,0,0,255"/>
+        <prop k="line_style" v="solid"/>
+        <prop k="line_width" v="2"/>
+        <prop k="line_width_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="use_custom_dash" v="0"/>
+        <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="fill" name="FNP_05PE_Lärmschutzmaßnahmen">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="50"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_05PE_Lärmschutzmaßnahmen@0">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="180"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="triangle"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="47,47,47,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="0"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="20"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="2"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="1" class="SimpleFill" locked="0">
+        <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="color" v="0,0,255,0"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="outline_color" v="0,0,0,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="2"/>
+        <prop k="outline_width_unit" v="MapUnit"/>
+        <prop k="style" v="solid"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="fill" name="FNP_05PF_FW-Waldflächen">
+      <layer pass="0" class="SimpleFill" locked="0">
+        <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="color" v="0,80,0,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="0,0,0,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="line" name="FNP_06LI_Schutzgebiete">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="50"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="5"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_06LI_Schutzgebiete@0">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="90"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="line"/>
+            <prop k="offset" v="20,-7"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="2"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="24"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="50"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="24"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_06LI_Schutzgebiete@1">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="180"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="line"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="2"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="20"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="2"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="50"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="16"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_06LI_Schutzgebiete@2">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="180"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="line"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="2"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="20"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="2"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="50"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="8"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_06LI_Schutzgebiete@3">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="180"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="line"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="2"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="20"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="2"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="50"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_06LI_Schutzgebiete@4">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="180"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="line"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="2"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="20"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="2"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="SimpleLine" locked="0">
+        <prop k="capstyle" v="square"/>
+        <prop k="customdash" v="5;2"/>
+        <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="customdash_unit" v="MapUnit"/>
+        <prop k="draw_inside_polygon" v="0"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="line_color" v="0,0,0,255"/>
+        <prop k="line_style" v="solid"/>
+        <prop k="line_width" v="2"/>
+        <prop k="line_width_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="use_custom_dash" v="0"/>
+        <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="fill" name="FNP_06PE_Schutzgebiete">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="50"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="24"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_06PE_Schutzgebiete@0">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="180"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="line"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="47,47,47,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="2"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="20"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="2"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="50"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="16"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_06PE_Schutzgebiete@1">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="180"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="line"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="47,47,47,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="2"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="20"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="2"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="50"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="8"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_06PE_Schutzgebiete@2">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="180"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="line"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="47,47,47,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="2"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="20"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="2"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="50"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="5"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_06PE_Schutzgebiete@3">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="90"/>
+            <prop k="color" v="47,47,47,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="line"/>
+            <prop k="offset" v="20,-7"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="2"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="24"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="50"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_06PE_Schutzgebiete@4">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="180"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="line"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="47,47,47,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="2"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="20"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="2"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="1" class="SimpleFill" locked="0">
+        <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="color" v="0,0,255,0"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="outline_color" v="0,0,0,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="2"/>
+        <prop k="outline_width_unit" v="MapUnit"/>
+        <prop k="style" v="solid"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="fill" name="FNP_06PF_G-GewerblicheBaufläche">
+      <layer pass="1" class="SimpleFill" locked="0">
+        <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="color" v="150,150,150,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="0,0,0,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="line" name="FNP_07LI_StraßenbahnPlanung">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="50"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="10"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_07LI_StraßenbahnPlanung@0">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="180"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="line"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="2"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="20"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="2"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="50"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_07LI_StraßenbahnPlanung@1">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="180"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="line"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="2"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="20"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="2"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="SimpleLine" locked="0">
+        <prop k="capstyle" v="square"/>
+        <prop k="customdash" v="5;2"/>
+        <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="customdash_unit" v="MapUnit"/>
+        <prop k="draw_inside_polygon" v="0"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="line_color" v="0,0,0,255"/>
+        <prop k="line_style" v="solid"/>
+        <prop k="line_width" v="2"/>
+        <prop k="line_width_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="use_custom_dash" v="0"/>
+        <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="fill" name="FNP_07PE_StraßenbahnPlanung">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="50"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_07PE_StraßenbahnPlanung@0">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="180"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="line"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="47,47,47,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="2"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="20"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="2"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="50"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="5.55112e-17"/>
+        <prop k="offset_along_line" v="10"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_07PE_StraßenbahnPlanung@1">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="180"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="line"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="47,47,47,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="2"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="20"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="2"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="1" class="SimpleFill" locked="0">
+        <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="color" v="0,0,255,0"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="outline_color" v="0,0,0,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="2"/>
+        <prop k="outline_width_unit" v="MapUnit"/>
+        <prop k="style" v="solid"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="fill" name="FNP_07PF_GB-FlächeFürGemeinbedarf">
+      <layer pass="1" class="SimpleFill" locked="0">
+        <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="color" v="231,165,255,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="0,0,0,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="line" name="FNP_08LI_T_Linie">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="50"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_08LI_T_Linie@0">
+          <layer pass="0" class="FontMarker" locked="0">
+            <prop k="angle" v="180"/>
+            <prop k="chr" v="T"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="font" v="Dingbats"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="size" v="26"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="2"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="SimpleLine" locked="0">
+        <prop k="capstyle" v="square"/>
+        <prop k="customdash" v="5;2"/>
+        <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="customdash_unit" v="MapUnit"/>
+        <prop k="draw_inside_polygon" v="0"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="line_color" v="0,0,0,255"/>
+        <prop k="line_style" v="solid"/>
+        <prop k="line_width" v="2"/>
+        <prop k="line_width_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="use_custom_dash" v="0"/>
+        <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="fill" name="FNP_08PE_T_Linie">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="50"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_08PE_T_Linie@0">
+          <layer pass="0" class="FontMarker" locked="0">
+            <prop k="angle" v="180"/>
+            <prop k="chr" v="T"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="font" v="Dingbats"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="size" v="26"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="2"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="1" class="SimpleFill" locked="0">
+        <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="color" v="0,0,255,0"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="outline_color" v="0,0,0,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="2"/>
+        <prop k="outline_width_unit" v="MapUnit"/>
+        <prop k="style" v="solid"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="fill" name="FNP_08PF_GE-Gewerbegebiet">
+      <layer pass="1" class="SimpleFill" locked="0">
+        <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="color" v="204,204,204,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="0,0,0,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="line" name="FNP_09LI_Trassenalternativen">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="50"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="24"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_09LI_Trassenalternativen@0">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="180"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="line"/>
+            <prop k="offset" v="-3.2,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="2"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="10"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="2"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="50"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="5"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_09LI_Trassenalternativen@1">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="90"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="line"/>
+            <prop k="offset" v="0,-7"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="2"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="30"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="50"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="5"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_09LI_Trassenalternativen@2">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="90"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="line"/>
+            <prop k="offset" v="10,-7"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="2"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="30"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="50"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_09LI_Trassenalternativen@3">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="180"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="line"/>
+            <prop k="offset" v="3.2,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="2"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="10"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="2"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="fill" name="FNP_09PE_Trassenalternativen">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="50"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="24"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_09PE_Trassenalternativen@0">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="180"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="line"/>
+            <prop k="offset" v="-3.2,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="2"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="10"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="2"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="50"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="5"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_09PE_Trassenalternativen@1">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="90"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="line"/>
+            <prop k="offset" v="0,-7"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="2"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="30"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="50"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="5"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_09PE_Trassenalternativen@2">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="90"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="line"/>
+            <prop k="offset" v="10,-7"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="2"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="30"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="50"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_09PE_Trassenalternativen@3">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="180"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="line"/>
+            <prop k="offset" v="3.2,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="25,32,40,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="2"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="area"/>
+            <prop k="size" v="10"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="2"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="fill" name="FNP_09PF_GI-Industriegebiet">
+      <layer pass="1" class="SimpleFill" locked="0">
+        <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="color" v="99,99,99,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="0,0,0,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="line" name="FNP_10LI_Trinkwasserschutzzone1">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="22"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_10LI_Trinkwasserschutzzone1@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="./svg/trinkwasserschutzzone_3.svg"/>
+            <prop k="offset" v="0,1.4"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="255,255,255,255"/>
+            <prop k="outline_width" v="0"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="23"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="0"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="SimpleLine" locked="0">
+        <prop k="capstyle" v="square"/>
+        <prop k="customdash" v="5;2"/>
+        <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="customdash_unit" v="MapUnit"/>
+        <prop k="draw_inside_polygon" v="0"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="line_color" v="0,0,0,255"/>
+        <prop k="line_style" v="solid"/>
+        <prop k="line_width" v="2"/>
+        <prop k="line_width_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="use_custom_dash" v="0"/>
+        <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="fill" name="FNP_10PE_Trinkwasserschutzzone1">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="20"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_10PE_Trinkwasserschutzzone1@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="./svg/trinkwasserschutzzone_3.svg"/>
+            <prop k="offset" v="0,1.4"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_width" v="0"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="23"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="0"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="1" class="SimpleFill" locked="0">
+        <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="color" v="0,0,0,0"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="outline_color" v="0,0,0,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="2"/>
+        <prop k="outline_width_unit" v="MapUnit"/>
+        <prop k="style" v="solid"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="fill" name="FNP_10PF_GR-GrünflächeVersorgungsfunktion">
+      <layer pass="0" class="SimpleFill" locked="0">
+        <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="color" v="77,175,74,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="0,0,0,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="line" name="FNP_11LI_Trinkwasserschutzzone2">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="22"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_11LI_Trinkwasserschutzzone2@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="./svg/trinkwasserschutzzone_3.svg"/>
+            <prop k="offset" v="0,1.4"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="255,255,255,255"/>
+            <prop k="outline_width" v="0"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="23"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="0"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="SimpleLine" locked="0">
+        <prop k="capstyle" v="square"/>
+        <prop k="customdash" v="5;2"/>
+        <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="customdash_unit" v="MapUnit"/>
+        <prop k="draw_inside_polygon" v="0"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="line_color" v="0,0,0,255"/>
+        <prop k="line_style" v="solid"/>
+        <prop k="line_width" v="2"/>
+        <prop k="line_width_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="use_custom_dash" v="0"/>
+        <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="fill" name="FNP_11PE_Trinkwasserschutzzone2">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="20"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_11PE_Trinkwasserschutzzone2@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="./svg/trinkwasserschutzzone_3.svg"/>
+            <prop k="offset" v="0,1.4"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_width" v="0"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="23"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="0"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="1" class="SimpleFill" locked="0">
+        <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="color" v="0,0,0,0"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="outline_color" v="0,0,0,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="2"/>
+        <prop k="outline_width_unit" v="MapUnit"/>
+        <prop k="style" v="solid"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="fill" name="FNP_11PF_HV-Hauptverkehrsstraßen">
+      <layer pass="1" class="SimpleFill" locked="0">
+        <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="color" v="255,255,0,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="0,0,0,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="line" name="FNP_12LI_Trinkwasserschutzzone3">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="22"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_12LI_Trinkwasserschutzzone3@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="./svg/trinkwasserschutzzone_3.svg"/>
+            <prop k="offset" v="0,1.4"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="255,255,255,255"/>
+            <prop k="outline_width" v="0"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="23"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="0"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="0" class="SimpleLine" locked="0">
+        <prop k="capstyle" v="square"/>
+        <prop k="customdash" v="5;2"/>
+        <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="customdash_unit" v="MapUnit"/>
+        <prop k="draw_inside_polygon" v="0"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="line_color" v="0,0,0,255"/>
+        <prop k="line_style" v="solid"/>
+        <prop k="line_width" v="2"/>
+        <prop k="line_width_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="use_custom_dash" v="0"/>
+        <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="fill" name="FNP_12PE_Trinkwasserschutzzone3">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="20"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_12PE_Trinkwasserschutzzone3@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="./svg/trinkwasserschutzzone_3.svg"/>
+            <prop k="offset" v="0,1.4"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_width" v="0"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="23"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="0"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="1" class="SimpleFill" locked="0">
+        <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="color" v="0,0,0,0"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="outline_color" v="0,0,0,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="2"/>
+        <prop k="outline_width_unit" v="MapUnit"/>
+        <prop k="style" v="solid"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="fill" name="FNP_12PF_M-GemischteBaufläche">
+      <layer pass="1" class="SimpleFill" locked="0">
+        <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="color" v="180,0,0,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="0,0,0,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="line" name="FNP_13LI_Ueberschwemmungsgebiet">
+      <layer pass="0" class="SimpleLine" locked="0">
+        <prop k="capstyle" v="square"/>
+        <prop k="customdash" v="5;2"/>
+        <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="customdash_unit" v="MapUnit"/>
+        <prop k="draw_inside_polygon" v="0"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="line_color" v="0,0,0,255"/>
+        <prop k="line_style" v="solid"/>
+        <prop k="line_width" v="2"/>
+        <prop k="line_width_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="use_custom_dash" v="0"/>
+        <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="fill" name="FNP_13PE_Ueberschwemmungsgebiet">
+      <layer pass="0" class="MarkerLine" locked="0">
+        <prop k="interval" v="48"/>
+        <prop k="interval_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="interval_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_along_line" v="0"/>
+        <prop k="offset_along_line_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_along_line_unit" v="MapUnit"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="placement" v="interval"/>
+        <prop k="rotate" v="1"/>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="@FNP_13PE_Ueberschwemmungsgebiet@0">
+          <layer pass="0" class="SvgMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="0,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="name" v="components/component_indoor.svg"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MapUnit"/>
+            <prop k="outline_color" v="255,255,255,255"/>
+            <prop k="outline_width" v="0"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MapUnit"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="52"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MapUnit"/>
+            <prop k="vertical_anchor_point" v="0"/>
+          </layer>
+        </symbol>
+      </layer>
+      <layer pass="1" class="SimpleFill" locked="0">
+        <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="color" v="0,0,255,0"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="outline_color" v="0,0,0,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="2"/>
+        <prop k="outline_width_unit" v="MapUnit"/>
+        <prop k="style" v="solid"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="fill" name="FNP_13PF_RV-FlächenFürRuhendenVerkehr">
+      <layer pass="1" class="SimpleFill" locked="0">
+        <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="color" v="0,0,0,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="0,0,0,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="fill" name="FNP_14PE_BesonderesStaedtebaurecht">
+      <layer pass="1" class="SimpleFill" locked="0">
+        <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="color" v="0,0,255,0"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="outline_color" v="0,0,0,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="2"/>
+        <prop k="outline_width_unit" v="MapUnit"/>
+        <prop k="style" v="solid"/>
+      </layer>
+      <layer pass="0" class="LinePatternFill" locked="0">
+        <prop k="angle" v="45"/>
+        <prop k="color" v="0,0,255,255"/>
+        <prop k="distance" v="50"/>
+        <prop k="distance_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="distance_unit" v="MapUnit"/>
+        <prop k="line_width" v="0.26"/>
+        <prop k="line_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="line_width_unit" v="MapUnit"/>
+        <prop k="offset" v="0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MapUnit"/>
+        <symbol alpha="1" clip_to_extent="1" type="line" name="@FNP_14PE_BesonderesStaedtebaurecht@1">
+          <layer pass="0" class="SimpleLine" locked="0">
+            <prop k="capstyle" v="square"/>
+            <prop k="customdash" v="5;2"/>
+            <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="customdash_unit" v="MM"/>
+            <prop k="draw_inside_polygon" v="0"/>
+            <prop k="joinstyle" v="bevel"/>
+            <prop k="line_color" v="0,0,0,255"/>
+            <prop k="line_style" v="solid"/>
+            <prop k="line_width" v="0.25"/>
+            <prop k="line_width_unit" v="MM"/>
+            <prop k="offset" v="0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="use_custom_dash" v="0"/>
+            <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="fill" name="FNP_14PF_S-Sonderbaufläche">
+      <layer pass="1" class="SimpleFill" locked="0">
+        <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="color" v="255,127,0,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="0,0,0,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="fill" name="FNP_15PF_SO-Sondergebiet">
+      <layer pass="1" class="SimpleFill" locked="0">
+        <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="color" v="255,165,0,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="0,0,0,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="fill" name="FNP_16PF_VA-Ver_Entsorgungsanlage">
+      <layer pass="1" class="SimpleFill" locked="0">
+        <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="color" v="247,252,185,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="0,0,0,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="fill" name="FNP_17PF_W-Wohnbaufläche">
+      <layer pass="1" class="SimpleFill" locked="0">
+        <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="color" v="255,0,0,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="0,0,0,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="fill" name="FNP_18PF_WF-Wasserfläche">
+      <layer pass="1" class="SimpleFill" locked="0">
+        <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="color" v="0,0,220,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="0,0,0,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+      </layer>
+    </symbol>
+    <symbol alpha="1" clip_to_extent="1" type="fill" name="FNP_19PF_WW-SonstigeGrünfläche">
+      <layer pass="1" class="SimpleFill" locked="0">
+        <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="color" v="173,221,142,255"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_color" v="0,0,0,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0.26"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="style" v="solid"/>
+      </layer>
+    </symbol>
+  </symbols>
+  <colorramps/>
+</qgis_style>
